@@ -1,0 +1,15 @@
+{
+    "group": "Localization",
+    "libs": [],
+    "frameworks": [],
+    "headerpaths": [],
+    "files": [],
+    "folders": [
+        "en.lproj",
+        "zh-Hans.lproj",
+        "th.lproj"
+    ],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "compiler_flags": [],
+    "linker_flags": []
+}

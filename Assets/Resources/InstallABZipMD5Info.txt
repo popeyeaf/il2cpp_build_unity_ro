@@ -1,0 +1,1 @@
+﻿{"ZipFileName":"Install.zip","Infos":[{"FileName":"Android/Android","MD5":"55f745a9c9f880200452128908d9737e","Size":872768},{"FileName":"Android/Android.manifest","MD5":"628ec9a418fa42aa282cf745dc1095a5","Size":2319550}]}

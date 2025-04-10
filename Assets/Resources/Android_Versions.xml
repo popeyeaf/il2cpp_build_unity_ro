@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BuildBundleConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <currentVersion>229108</currentVersion>
+  <maxDirectUpgradeVers>5</maxDirectUpgradeVers>
+  <appInstallUrl />
+  <infos />
+</BuildBundleConfig>

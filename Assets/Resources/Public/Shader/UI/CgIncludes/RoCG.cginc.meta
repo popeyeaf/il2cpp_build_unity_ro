@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7b1cfea183f88304ca779b16bd769387
+timeCreated: 1532397526
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: resources/public/shader/ui/cgincludes.unity3d
+  assetBundleVariant: 
